@@ -13,3 +13,7 @@ html{
 .blue-text {
     color: blue;
 }
+
+#bg-yellow {
+    background-color: yellow;
+}
